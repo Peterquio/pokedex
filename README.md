@@ -6,8 +6,8 @@ Ela possui um filtro para facilitar a busca do Pokémon e traz informações de 
 :construction:  Projeto em construção  :construction:
   
 ## Funcionalidades  
-- Permite utilizar filtros de tipos (até 2 tipos diferentes) e filtrar por geração (em desenvolvimento);  
-- Traz informações de batalha, sprites e sprites shiny (em desenvolvimento);
+- Permite utilizar filtros de tipos (até 2 tipos diferentes) e filtrar por geração;  
+- Traz informações de batalha, sprites e sprites shiny;
 - Em desenvolvimento: Traz informações de Formas Regionais, Mega Evoluções e Formas Gigantamax.  
   
 ## Como usar  
